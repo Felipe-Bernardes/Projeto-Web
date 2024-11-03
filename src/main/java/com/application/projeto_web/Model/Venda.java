@@ -21,5 +21,7 @@ public class Venda {
     private Long id_venda;
 
     private Date data;
-    private Long id_cliente;
+    private Float qtd;
+    private int id_cliente;
+    private int id_produto;
 }
